@@ -1,4 +1,4 @@
-<h1>Recurring Company Metric Report Ownership</h1>
+<h1>Company Metric Report Ownership</h1>
 
 <!--
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
