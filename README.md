@@ -34,37 +34,14 @@ I took over the management of over 10 recurring company reports, covering metric
 - Reduced manual work and risk of error by automating the delivery pipeline
 
 <h2>Program walk-through/Visual aids:</h2>
-<i><b>Still building...</b></i>
-<!--
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<i><b>The numbers in the mockups do not represent real organization values.</b></i>
+
+<p align="left">
+New order shares visual: <br/>
+ <img src="https://imgur.com/ZEa0TJf.png" height="50%" width="50%" alt="Visuals"/> <img src="https://imgur.com/ZbulPtK.png" height="50%" width="50%" alt="Visuals"/>
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
---!>
+
 
 <h3>Confidentiality Note</h3>
-<i>All data points, recipients, and visuals are scrubbed of internal identifiers..</i>
+<i>All data points, recipients, and visuals are scrubbed of internal identifiers.</i>
